@@ -5,7 +5,8 @@ Modify the script at the bottom, on this line:<br>
 ```
 firefox_profile_path = ''
 ```
-<br>
+
 Simply put the absolute path to your profile here. If the script fails, make sure to add a trailing `/` onto the path.
+
 # Licensing
 Licensed under BSD-Clause-3.
